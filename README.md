@@ -1,6 +1,10 @@
 # CRUD To-Do React App
 
-![Screenshot of CRUD To-Do React App](screenshots/react-todo-screenshot.png)
+[![Screenshot of CRUD To-Do React App](screenshots/react-todo-screenshot.png)](https://crud-todo-react-vite.netlify.app/)
+
+## Deployment
+
+The application is deployed on Netlify and can be viewed [here](https://crud-todo-react-vite.netlify.app/).
 
 ## Overview
 
